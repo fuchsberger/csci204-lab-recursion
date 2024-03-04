@@ -6,7 +6,7 @@ In this lab, you will implement recursive directory listing on the UNIX file sys
 
 **_We strongly recommend to do this lab on either the linux lab computers or windows computers with WSL installed. Macbooks may also work fine. We do not recommend using your Windows computers (without WSL) as some of the linux commands featured will not work._**
 
-**Partner Status:** This lab can be done with a partner, provided that they are in your lab section.  If you work with a partner, follow the same process as previously specified, with one student creating a group and the other joining. Let your lab instructor know if you have any replit issues.
+**Partner Status:** This lab can be done with a partner, provided that they are in your lab section.  If you work with a partner, follow the same process as [previously specified](https://github.com/fuchsberger/csci_204_2024_spring/blob/main/week_6/lecture_6.3.md), with one student creating a repository on Gitlab and the other joining. Let your lab instructor know if you have any issues getting started.
 
 ## Directory Structure
 Clone this reposity to get a copy of the starting files:
