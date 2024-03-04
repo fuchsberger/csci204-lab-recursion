@@ -4,7 +4,7 @@ Lab content is the result of collective work of CSCI 204 instructors.
 ## Objectives
 In this lab, you will implement recursive directory listing on the UNIX file system and handle exceptions.
 
-_We strongly recommend to do this lab on either the linux lab computers or windows computers with WSL installed. Macbooks may also work fine. We do not recommend using your Windows computers (without WSL) as some of the linux commands featured will not work._
+**_We strongly recommend to do this lab on either the linux lab computers or windows computers with WSL installed. Macbooks may also work fine. We do not recommend using your Windows computers (without WSL) as some of the linux commands featured will not work._**
 
 **Partner Status:** This lab can be done with a partner, provided that they are in your lab section.  If you work with a partner, follow the same process as previously specified, with one student creating a group and the other joining. Let your lab instructor know if you have any replit issues.
 
