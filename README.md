@@ -16,20 +16,23 @@ git clone https://github.com/fuchsberger/csci204-lab-recursion.git
 
 Your newly created `csci204-lab-recursion` folder should contain the following files and subfolders:
 ```
-dirs.py
-file1.txt
-file2.txt
-file3.txt
-file4.txt
-testpages
-  level2
-    page1.html
-    page2.html
-  grading.html
-  index.html
-  readme.txt
-  test.html
-  test2.html
+lab
+    dirs.py
+    file1.txt
+    file2.txt
+    file3.txt
+    file4.txt
+    testpages
+    level2
+        page1.html
+        page2.html
+    grading.html
+    index.html
+    readme.txt
+    test.html
+    test2.html
+main.py
+README.md
 ```
 
 There are a few text files other than the Python program in the directory that can help you practice the Linux diff command as described below.
