@@ -217,9 +217,9 @@ After writing your `FileStats` class, complete the following tasks to make the p
 4. Initialize a `FileStats` object before calling the `list_dir()` method. I.e. the last few lines of your code may now look like the following:
 ```python
 fstats = FileStats()
-print ( "--Entering : ", os.path.basename( basedir ))
+print ( "--Entering ", os.path.basename( basedir ))
 list_dir( basedir, fstats )
-print ( "--Leaving : ", os.path.basename( basedir ))
+print ( "--Leaving ", os.path.basename( basedir ))
 fstats.print_results()
 ```
 

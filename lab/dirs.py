@@ -37,14 +37,3 @@ def list_dir(start_dir):
 
     ## Student need to fill in the rest of the method
     ## to accomplish the task specified in the lab description
-
-
-## end of list_dir()
-
-basedir = input('Enter a starting directory or file: ')
-
-# Call list_dir which lists directories and files recursively
-# The argument is the starting file(dir)
-list_dir(basedir)
-
-## end of program
