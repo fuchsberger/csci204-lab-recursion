@@ -238,7 +238,7 @@ Read on for how to modify the `dirattrs.py` program.
 ### Other Modifications
 After writing your `FileStats` class, complete the following tasks to make the program work.
 
-1. Copy your `list_dir()` function into your dirattrib.py file
+1. Copy your `list_dir()` function into your dirattrs.py file
 2. Modify the `list_dir()` method so that it takes a FileStats object as a parameter. We ask that the `list_dir()` method recursively call itself, passing your updated FileStats object each time.
 3. Update the `FileStats` object as you recursively traverse the directory.
 
@@ -274,4 +274,4 @@ Student name: Sam Snoopy
 Instructor name: Professor Garfield'''
 ```
 
-Finally, submit your lab!  As in previous labs, you should submit via gradescope. Double check you have both `dirs.py` and `dirattrib.py` (which should include your FileStats class). You do not need to upload any other files.
+Finally, submit your lab!  As in previous labs, you should submit via gradescope. Double check you have both `dirs.py` and `dirattrs.py` (which should include your FileStats class). You do not need to upload any other files.
